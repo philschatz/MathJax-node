@@ -23,7 +23,7 @@
   },
   "dependencies": {
     "jsdom": "^6.0.0",
-    "speech-rule-engine": "*",
+    "speech-rule-engine": "1.0.0",
     "yargs": "^3.0.0",
     "MathJax": "https://github.com/mathjax/MathJax/tarball/mathjax-node-2.5.1"
   },
